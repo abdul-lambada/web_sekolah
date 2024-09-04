@@ -22,3 +22,8 @@ Pindahkan Folder Web Sekolah ke folder xampp/wamp
 Ubah Nama Database pada database.php Sesuaikan dengan nama Database di MySQL
 
 Jalankan http://localhost/web-sekolah/
+
+
+
+
+
