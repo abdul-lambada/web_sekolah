@@ -80,11 +80,11 @@
 					<a class="dropdown-item" href="contact.html">Kontak</a>
 				</div>
 			</li>
-			<li class="menu_mm"><a href="#">About</a></li>
-			<li class="menu_mm"><a href="#">Berita</a></li>
+			<li class="menu_mm"><a href="#">Galeri</a></li>
 			<li class="menu_mm"><a href="#">Download</a></li>
-			<li class="menu_mm"><a href="#">Gallery</a></li>
-			<li class="menu_mm"><a href="contact.html">Contact</a></li>
+			<li class="menu_mm"><a href="#">Berita</a></li>
+			<li class="menu_mm"><a href="#">About</a></li>
+			<li class="menu_mm"><a href="<?= base_url('login') ?>">Login</a></li>
 		</ul>
 	</nav>
 </div>
