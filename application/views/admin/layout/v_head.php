@@ -8,7 +8,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title><?= $title ?> -  Admin</title>
+	<title><?= $title ?> - Admin</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="<?= base_url() ?>template/back-end/css/bootstrap.min.css" rel="stylesheet">
@@ -21,6 +21,12 @@
 
 	<!-- Custom Fonts -->
 	<link href="<?= base_url() ?>template/back-end/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<!-- DataTables CSS -->
+	<link href="<?= base_url() ?>template/back-end/css/dataTables/dataTables.bootstrap.css" rel="stylesheet">
+
+	<!-- DataTables Responsive CSS -->
+	<link href="<?= base_url() ?>template/back-end/css/dataTables/dataTables.responsive.css" rel="stylesheet">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
