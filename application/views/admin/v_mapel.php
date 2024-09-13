@@ -2,7 +2,7 @@
 	<div class="col-lg-12">
 		<div class="panel panel-primary">
 			<div class="panel-heading">
-				<button type="button" class="btn btn-info btn-xs pt-4" data-toggle="modal" data-target="#myModal"><i class="fa fa-plus"> Tambah Data</button></i>
+				<button type="button" class="btn btn-success btn-xs pt-4" data-toggle="modal" data-target="#myModal"><i class="fa fa-plus"> Tambah Data</button></i>
 			</div>
 			<div class="panel-body">
 				<?php
