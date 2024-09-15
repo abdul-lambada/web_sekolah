@@ -28,6 +28,12 @@
 	<!-- DataTables Responsive CSS -->
 	<link href="<?= base_url() ?>template/back-end/css/dataTables/dataTables.responsive.css" rel="stylesheet">
 
+	<!-- Ckeditor -->
+	<script src="<?= base_url() ?>ckeditor/ckeditor.js"></script>
+	<script src="<?= base_url() ?>ckeditor/samples/js/sample.js"></script>
+	<link rel="stylesheet" href="<?= base_url() ?>ckeditor/samples/css/samples.css">
+	<link rel="stylesheet" href="<?= base_url() ?>ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css">
+
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
