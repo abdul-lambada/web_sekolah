@@ -14,58 +14,10 @@
 				<a href="<?= base_url('siswa') ?>"><i class="fa fa-mortar-board fa-fw"></i> Data Siswa</a>
 			</li>
 			<li>
-				<a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
-				<ul class="nav nav-second-level">
-					<li>
-						<a href="panels-wells.html">Panels and Wells</a>
-					</li>
-					<li>
-						<a href="buttons.html">Buttons</a>
-					</li>
-					<li>
-						<a href="notifications.html">Notifications</a>
-					</li>
-					<li>
-						<a href="typography.html">Typography</a>
-					</li>
-					<li>
-						<a href="icons.html"> Icons</a>
-					</li>
-					<li>
-						<a href="grid.html">Grid</a>
-					</li>
-				</ul>
-				<!-- /.nav-second-level -->
+				<a href="<?= base_url('pengumuman') ?>"><i class="fa fa-bullhorn fa-fw"></i> Pengumuman</a>
 			</li>
 			<li>
-				<a href="#"><i class="fa fa-sitemap fa-fw"></i> Multi-Level Dropdown<span class="fa arrow"></span></a>
-				<ul class="nav nav-second-level">
-					<li>
-						<a href="#">Second Level Item</a>
-					</li>
-					<li>
-						<a href="#">Second Level Item</a>
-					</li>
-					<li>
-						<a href="#">Third Level <span class="fa arrow"></span></a>
-						<ul class="nav nav-third-level">
-							<li>
-								<a href="#">Third Level Item</a>
-							</li>
-							<li>
-								<a href="#">Third Level Item</a>
-							</li>
-							<li>
-								<a href="#">Third Level Item</a>
-							</li>
-							<li>
-								<a href="#">Third Level Item</a>
-							</li>
-						</ul>
-						<!-- /.nav-third-level -->
-					</li>
-				</ul>
-				<!-- /.nav-second-level -->
+				<a href="#"><i class="fa fa-indent fa-fw"></i> Berita</a>
 			</li>
 			<li class="active">
 				<a href="<?= base_url('login/logout') ?>"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
